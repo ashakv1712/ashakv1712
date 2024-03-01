@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashakv1712
-- 👀 I’m interested in books, travel, coding
+- 👀 books, travel, coding
 - 🌱 HTML | CSS | JavaScript | React Native | Python
 
 - 📫 How to reach me - ashakv1712@gmail.com
